@@ -41,12 +41,10 @@ The project is about building a queueing simulator to predict and analyze the ke
 
 The detailed description of the project will be published after week 4 here and the due date of the project is December 19. Students need to submit a report and do a presentation as well.
 
-This accounts for 25 % of the final grade.
+This accounts for 70 % of the final grade.
 
-### Final exam
-The exact date (late January and early October) and place will be announced later.
-
-This account for 85 % of the final grade.
+### Quizs 
+There will be two in-class quizzs, 30 minutes long. Each of this will account for 20 % of your final grade.
 
 
 ##  7. <a name='Detailedschedule'></a>Detailed schedule
