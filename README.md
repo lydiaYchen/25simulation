@@ -57,7 +57,7 @@ Each will account for 15 % of your final grade.
 **Week**|**Lecture Topic**|**Instructor**|**Additional note**
 :-----|:-----|:-----|:-----
 Week 1 (Sep 16) | Introduction and Common Discrete Random Variables | Lydia | ch 3
-Week 2 (Sep 23 | Expectation, Variance, and Higher Moments | Lydia| ch 4/5
+Week 2 (Sep 23) | Expectation, Variance, and Higher Moments | Lydia| ch 4/5
 Week 3 (Sep 30) | Lab on derivation | Elif
 Week 4 (Oct 7) | Continuous Random Variables | Lydia | Ch 7
 Week 5 (Oct 14) | Python for simulation | Elif
