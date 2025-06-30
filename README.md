@@ -7,8 +7,7 @@ This is the course repoisitory for the simulation course at Data Science Bachelo
 
 In this course, there are three modules.
 - Part I: Basic probability and statistics of discrete variables
-- Part II: Discrete Simulation
-- Part III: Queueing Systems
+- Part II: Queueing Simulation Systems
 
 
 ##  3. <a name='Textbooks'></a>Textbooks
