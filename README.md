@@ -41,10 +41,10 @@ The project is about building a queueing simulator to predict and analyze the ke
 
 The detailed description of the project will be published after week 4 here and the due date of the project is December 19. Students need to submit a report and do a presentation as well.
 
-This accounts for 70 % of the final grade.
+This accounts for 80 % of the final grade.
 
 ### Quizs 
-There will be two in-class quizzs, 30 minutes long. Each of this will account for 20 % of your final grade.
+There will be two in-class quizzs, 30 minutes long. Each of this will account for 15 % of your final grade.
 
 
 ##  7. <a name='Detailedschedule'></a>Detailed schedule
@@ -54,11 +54,11 @@ There will be two in-class quizzs, 30 minutes long. Each of this will account fo
 :-----|:-----|:-----|:-----
 Week 1 (Sep 16) | Introduction and Common Discrete Random Variables | Lydia | ch 3
 Week 2 (Sep 23 | Expectation, Variance, and Higher Moments | Lydia| ch 4/5
-Week 3 (Sep 30) | Lab on derivation | Abel
+Week 3 (Sep 30) | Lab on derivation | Elif
 Week 4 (Oct 7) | Continuous Random Variables | Lydia | Ch 7
-Week 5 (Oct 14) | Python for simulation | Abel
+Week 5 (Oct 14) | Python for simulation | Elif
 Week 6 (Oct 21) | Random Number Generation | Lydia | ch 13
-Week 7 (Oct 28) | Lab on random number generation - Quiz 1 | Abel
+Week 7 (Oct 28) | Lab on random number generation - Quiz 1 | Elif
 Week 8 (Nov 4) | Event Driven Simulation | Lydia | ch 14
 Week 9 (Nov 11) | Lab on event driven simulation | Abel
 Week 10 (Nov 18) | The Poisson Process | Lydia | ch 12
