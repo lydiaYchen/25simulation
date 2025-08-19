@@ -56,17 +56,17 @@ Each will account for 15 % of your final grade.
 
 **Week**|**Lecture Topic**|**Instructor**|**Additional note**
 :-----|:-----|:-----|:-----
-Week 1 (Sep 16) | Introduction and Common Discrete Random Variables | Lydia | ch 3
-Week 2 (Sep 23) | Expectation, Variance, and Higher Moments | Lydia| ch 4/5
-Week 3 (Sep 30) | Lab on derivation | Elif
-Week 4 (Oct 7) | Continuous Random Variables | Lydia | Ch 7
-Week 5 (Oct 14) | Python for simulation | Elif
-Week 6 (Oct 21) | Random Number Generation | Lydia | ch 13
-Week 7 (Oct 28) | Lab on random number generation - Quiz 1 | Elif
-Week 8 (Nov 4) | Event Driven Simulation | Lydia | ch 14
-Week 9 (Nov 11) | Lab on event driven simulation | Abel
-Week 10 (Nov 18) | The Poisson Process | Lydia | ch 12
-Week 11 (Nov 25) | Lab on queueing systems | Abel | 
-Week 12 (Dec 2) |  Finite state Queueing Systems Scheduling | Lydia | ch 27
-Week 13 (Dec 9) | Lab with project - Quiz 2 | Abel
-Week 14 (Dec 16) | Course review & presentations | Lydia
+Week 1 (Sep 18) | Introduction and Common Discrete Random Variables | Lydia | ch 3
+Week 2 (Sep 25) | Expectation, Variance, and Higher Moments | Lydia| ch 4/5
+Week 3 (Oct 2) | Lab on derivation | Elif
+Week 4 (Oct 9) | Continuous Random Variables | Lydia | Ch 7
+Week 5 (Oct 16) | Python for simulation | Elif
+Week 6 (Oct 23) | Random Number Generation | Lydia | ch 13
+Week 7 (Oct 30) | Lab on random number generation - Quiz 1 | Elif
+Week 8 (Nov 6) | Event Driven Simulation | Lydia | ch 14
+Week 9 (Nov 13) | Lab on event driven simulation | Abel
+Week 10 (Nov 20) | The Poisson Process | Lydia | ch 12
+Week 11 (Nov 27) | Lab on queueing systems | Abel | 
+Week 12 (Dec 4) |  Finite state Queueing Systems Scheduling | Lydia | ch 27
+Week 13 (Dec 11) | Lab with project - Quiz 2 | Abel
+Week 14 (Dec 18) | Course review & presentations | Lydia
