@@ -3,13 +3,11 @@
 This is the course repoisitory for the simulation course at Data Science Bachelor Program of University of Neuchatel.
 The course is worth 3 ECTS.
 
-
 ##  2. <a name='Coursedescription'></a>Course description
 
 In this course, there are three modules.
 - Part I: Basic probability and statistics of discrete variables
 - Part II: Queueing Simulation Systems
-
 
 ##  3. <a name='Textbooks'></a>Textbooks
 Here is the textbook for this course.
@@ -47,12 +45,10 @@ Students need to submit a report and do a presentation as well.
 This accounts for 80 % of the final grade.
 
 ### Quizzes
-There will be two in-class quizzes, 30 minutes long.
+There will be two in-class quizzes, each 45 minutes long.
 Each will account for 15 % of your final grade.
 
-
 ##  7. <a name='Detailedschedule'></a>Detailed schedule
-
 
 **Week**|**Lecture Topic**|**Instructor**|**Additional note**
 :-----|:-----|:-----|:-----
@@ -66,7 +62,7 @@ Week 7 (Oct 30) | Lab on random number generation - Quiz 1 | Elif
 Week 8 (Nov 6) | Event Driven Simulation | Lydia | ch 14
 Week 9 (Nov 13) | Lab on event driven simulation | Abel
 Week 10 (Nov 20) | The Poisson Process | Lydia | ch 12
-Week 11 (Nov 27) | Lab on queueing systems | Abel | 
+Week 11 (Nov 27) | Lab on queueing systems | Abel |
 Week 12 (Dec 4) |  Finite state Queueing Systems Scheduling | Lydia | ch 27
 Week 13 (Dec 11) | Lab with project - Quiz 2 | Abel
 Week 14 (Dec 18) | Course review & presentations | Lydia
